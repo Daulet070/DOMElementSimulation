@@ -1,2 +1,2 @@
 # DOMElementSimulation
-Раблта с DOM
+Работа с DOM
